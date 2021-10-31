@@ -7,3 +7,10 @@ h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: green;
 }
+
+#mensaje {
+  width: 60%;
+  font-family: fantasy;
+  color: grey;
+  text-align: justify;
+}
